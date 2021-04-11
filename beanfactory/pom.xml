@@ -20,7 +20,7 @@
     </dependency>
 
 <!-- ********************************************************************** 
-	 ** 			SPRING DEPENDENCIES 								 ** 
+	 ** 			SPRING DEPENDENCIES for feature1 								 ** 
 	 ********************************************************************** -->
     <dependency>
 		<groupId>org.springframework</groupId>
